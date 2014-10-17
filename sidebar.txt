@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gua:home|Door43 (gua)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gua|d43-gua repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gua/archive/master.zip|d43-gua.zip]]
+
+**Recent Changes**
+{{changes>ns = gua}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gua|Ethnologue data]]
+
